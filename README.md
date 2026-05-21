@@ -16,8 +16,6 @@ I am a **Computer Science**, **Web3 developer**, and **AI Trainer/Evaluator**. I
 | **AI & Automation** | Manus AI, Replit Agent, LLM Prompt Engineering, Autonomous Agents |
 | **Tools & Platforms** | Git/GitHub, Node.js, Next.js, Tailwind CSS, Linux |
 
-### 📊 GitHub Stats
-![Godtime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=godtime09&show_icons=true&theme=radical)
 
 ### 📬 Connect With Me
 - **X (Twitter):** [@iamPhatom_](https://x.com/iamPhatom_)
