@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @godtime09
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me 
+# Hi there, I'm Godtime Benson 👋
 
-<!---
-godtime09/godtime09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a **Computer Science**, **Web3 developer**, and **AI Trainer/Evaluator**. I bridge the gap between blockchain infrastructure and autonomous AI systems, building tools that make decentralized work more efficient.
+
+### 🛠️ What I'm Working On
+- **Mappers:** An agentic, decentralized freelance marketplace built on Solana.
+- **AI Training & Evaluation:** Working with advanced LLMs on high-reasoning tasks and prompt alignment.
+- **Web3 Ecosystems:** Active technical community contributor and moderator.
+
+### 💻 Technical Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, TypeScript, Rust, C++ |
+| **Web3 / Blockchain** | Solana, Anchor Framework, Mantle Network, Smart Contracts |
+| **AI & Automation** | Manus AI, Replit Agent, LLM Prompt Engineering, Autonomous Agents |
+| **Tools & Platforms** | Git/GitHub, Node.js, Next.js, Tailwind CSS, Linux |
+
+### 📊 GitHub Stats
+![Godtime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=godtime09&show_icons=true&theme=radical)
+
+### 📬 Connect With Me
+- **X (Twitter):** [@iamPhatom_](https://x.com/iamPhatom_)
+- **LinkedIn:** [Godtime Benson](https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG_HERE)
+- **Discord:** `iamphatom`
+- **Telegram:** [@iamphatom](https://t.me/iamphatom)
+
